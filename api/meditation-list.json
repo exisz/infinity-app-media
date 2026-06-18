@@ -7,7 +7,7 @@
         "file": "media/meditation-1.mp3",
         "title": "冥想正念引导15分钟",
         "duration": 900000,
-        "image": "https://i.imgur.com/Llb1JbY.jpeg"
+        "image": "https://raw.githubusercontent.com/gotexis/infinity-app-media/main/media/images/infinity-meditation-fallback.jpg"
     },
     {
         "id": 124,
@@ -17,7 +17,7 @@
         "file": "media/meditation-2.mp3",
         "title": "冥想 - 雅迪斯引导",
         "duration": 900000,
-        "image": "https://i.imgur.com/Llb1JbY.jpeg"
+        "image": "https://raw.githubusercontent.com/gotexis/infinity-app-media/main/media/images/infinity-meditation-fallback.jpg"
     },
     {
         "id": 1,
@@ -27,7 +27,7 @@
         "artist": "Infinity",
         "file": "media/meditation-1.mp3",
         "duration": 300000,
-        "image": "https://i.imgur.com/Llb1JbY.jpeg"
+        "image": "https://raw.githubusercontent.com/gotexis/infinity-app-media/main/media/images/infinity-meditation-fallback.jpg"
     },
     {
         "id": 2,
@@ -37,7 +37,7 @@
         "artist": "Infinity",
         "file": "media/singing-bowl.mp3",
         "duration": 300000,
-        "image": "https://i.imgur.com/0vDxgQm.jpeg"
+        "image": "https://raw.githubusercontent.com/gotexis/infinity-app-media/main/media/images/infinity-bowl-fallback.png"
     },
     {
         "id": 3,
@@ -47,7 +47,7 @@
         "artist": "Infinity",
         "file": "media/rain-ambient.mp3",
         "duration": 300000,
-        "image": "https://i.imgur.com/Llb1JbY.jpeg"
+        "image": "https://raw.githubusercontent.com/gotexis/infinity-app-media/main/media/images/infinity-meditation-fallback.jpg"
     },
     {
         "id": 4,
@@ -57,7 +57,7 @@
         "artist": "Infinity",
         "file": "media/deep-sleep.mp3",
         "duration": 480000,
-        "image": "https://i.imgur.com/0vDxgQm.jpeg"
+        "image": "https://raw.githubusercontent.com/gotexis/infinity-app-media/main/media/images/infinity-meditation-fallback.jpg"
     },
     {
         "id": 5,
@@ -67,7 +67,7 @@
         "artist": "Infinity",
         "file": "media/ocean-waves.mp3",
         "duration": 300000,
-        "image": "https://i.imgur.com/Llb1JbY.jpeg"
+        "image": "https://raw.githubusercontent.com/gotexis/infinity-app-media/main/media/images/infinity-meditation-fallback.jpg"
     },
     {
         "id": "rain",
@@ -77,7 +77,7 @@
         "artist": "Infinity",
         "file": "media/rain-1.mp3",
         "duration": 600000,
-        "image": "https://i.imgur.com/Llb1JbY.jpeg"
+        "image": "https://raw.githubusercontent.com/gotexis/infinity-app-media/main/media/images/infinity-meditation-fallback.jpg"
     },
     {
         "id": 6,
@@ -87,7 +87,7 @@
         "artist": "Infinity",
         "file": "media/wind-ambient.mp3",
         "duration": 300000,
-        "image": "https://i.imgur.com/0vDxgQm.jpeg"
+        "image": "https://raw.githubusercontent.com/gotexis/infinity-app-media/main/media/images/infinity-meditation-fallback.jpg"
     },
     {
         "id": 7,
@@ -97,6 +97,6 @@
         "artist": "Infinity",
         "file": "media/forest-ambient.mp3",
         "duration": 300000,
-        "image": "https://i.imgur.com/Llb1JbY.jpeg"
+        "image": "https://raw.githubusercontent.com/gotexis/infinity-app-media/main/media/images/infinity-meditation-fallback.jpg"
     }
 ]
